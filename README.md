@@ -1,2 +1,2 @@
 # datamodel
-load data  with ajax and display
+Load data  with ajax and display result.
